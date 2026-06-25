@@ -1,0 +1,31 @@
+{
+  "app": "Wofh Sage",
+  "appVersion": "v1.0.1",
+  "exportedAt": "2026-06-25T07:31:33.855Z",
+  "tree": "1_4",
+  "learned": {
+    "sciences": [],
+    "totalCost": 0,
+    "agg": {
+      "builds": [],
+      "units": [],
+      "bonuses": [],
+      "specialists": [],
+      "envs": [],
+      "deposits": []
+    }
+  },
+  "plan": {
+    "order": [],
+    "sciences": [],
+    "totalCost": 0,
+    "agg": {
+      "builds": [],
+      "units": [],
+      "bonuses": [],
+      "specialists": [],
+      "envs": [],
+      "deposits": []
+    }
+  }
+}
