@@ -1,0 +1,589 @@
+{
+  "app": "Wofh Sage",
+  "appVersion": "v1.0.1",
+  "exportedAt": "2026-06-25T07:38:22.919Z",
+  "tree": "1_5_0",
+  "learned": {
+    "sciences": [
+      {
+        "id": 0,
+        "name": "Отщеповые орудия",
+        "cost": 60
+      },
+      {
+        "id": 2,
+        "name": "Приручение огня",
+        "cost": 60
+      },
+      {
+        "id": 9,
+        "name": "Речь",
+        "cost": 70
+      },
+      {
+        "id": 1,
+        "name": "Ручные рубила",
+        "cost": 60
+      },
+      {
+        "id": 3,
+        "name": "Охота",
+        "cost": 60
+      },
+      {
+        "id": 4,
+        "name": "Собирательство",
+        "cost": 70
+      },
+      {
+        "id": 5,
+        "name": "Очаги",
+        "cost": 70
+      },
+      {
+        "id": 8,
+        "name": "Термическая обработка камня",
+        "cost": 70
+      },
+      {
+        "id": 12,
+        "name": "Ритуал погребения",
+        "cost": 80
+      },
+      {
+        "id": 24,
+        "name": "Бирки и зарубки",
+        "cost": 100
+      },
+      {
+        "id": 10,
+        "name": "Красящие пигменты",
+        "cost": 70
+      },
+      {
+        "id": 11,
+        "name": "Пластинчатая техника",
+        "cost": 80
+      },
+      {
+        "id": 14,
+        "name": "Загонная охота",
+        "cost": 80
+      },
+      {
+        "id": 18,
+        "name": "Плетение",
+        "cost": 80
+      },
+      {
+        "id": 19,
+        "name": "Этноботаника",
+        "cost": 90
+      },
+      {
+        "id": 21,
+        "name": "Религия",
+        "cost": 90
+      },
+      {
+        "id": 88,
+        "name": "Арифметика",
+        "cost": 370
+      },
+      {
+        "id": 16,
+        "name": "Составные орудия",
+        "cost": 90
+      },
+      {
+        "id": 25,
+        "name": "Временные укрытия",
+        "cost": 100
+      },
+      {
+        "id": 26,
+        "name": "Текстильное производство",
+        "cost": 100
+      },
+      {
+        "id": 29,
+        "name": "Одомашнивание собаки",
+        "cost": 110
+      },
+      {
+        "id": 30,
+        "name": "Сельское хозяйство",
+        "cost": 110
+      },
+      {
+        "id": 23,
+        "name": "Наскальная живопись",
+        "cost": 100
+      },
+      {
+        "id": 31,
+        "name": "Строительство",
+        "cost": 120
+      },
+      {
+        "id": 32,
+        "name": "Ремесло",
+        "cost": 120
+      },
+      {
+        "id": 33,
+        "name": "Торговля",
+        "cost": 120
+      },
+      {
+        "id": 34,
+        "name": "Животноводство",
+        "cost": 120
+      },
+      {
+        "id": 28,
+        "name": "Мифология",
+        "cost": 110
+      },
+      {
+        "id": 36,
+        "name": "Селекция",
+        "cost": 130
+      },
+      {
+        "id": 47,
+        "name": "Счётные токены",
+        "cost": 160
+      },
+      {
+        "id": 50,
+        "name": "Керамика",
+        "cost": 170
+      },
+      {
+        "id": 105,
+        "name": "Геометрия",
+        "cost": 520
+      },
+      {
+        "id": 44,
+        "name": "Волокнистые культуры",
+        "cost": 150
+      },
+      {
+        "id": 76,
+        "name": "Клинопись",
+        "cost": 290
+      },
+      {
+        "id": 87,
+        "name": "Письменность",
+        "cost": 360
+      },
+      {
+        "id": 96,
+        "name": "Папирус",
+        "cost": 440
+      },
+      {
+        "id": 152,
+        "name": "Алфавит",
+        "cost": 1300
+      },
+      {
+        "id": 123,
+        "name": "Литература",
+        "cost": 750
+      },
+      {
+        "id": 167,
+        "name": "Философия",
+        "cost": 1800
+      },
+      {
+        "id": 172,
+        "name": "Математическое доказательство",
+        "cost": 1900
+      },
+      {
+        "id": 196,
+        "name": "Формальная логика",
+        "cost": 3000
+      },
+      {
+        "id": 69,
+        "name": "Политеизм",
+        "cost": 250
+      },
+      {
+        "id": 113,
+        "name": "Богословие",
+        "cost": 610
+      },
+      {
+        "id": 119,
+        "name": "Кодекс чести",
+        "cost": 690
+      },
+      {
+        "id": 81,
+        "name": "Календарь",
+        "cost": 320
+      }
+    ],
+    "totalCost": 15600,
+    "agg": {
+      "builds": [
+        {
+          "id": 2,
+          "name": "Землянка",
+          "levels": 12,
+          "is_wonder": false
+        },
+        {
+          "id": 18,
+          "name": "Типи",
+          "levels": 11,
+          "is_wonder": false
+        },
+        {
+          "id": 27,
+          "name": "Дом охотника",
+          "levels": 13,
+          "is_wonder": false
+        },
+        {
+          "id": 85,
+          "name": "Хижина",
+          "levels": 11,
+          "is_wonder": false
+        },
+        {
+          "id": 86,
+          "name": "Тайник",
+          "levels": 9,
+          "is_wonder": false
+        },
+        {
+          "id": 96,
+          "name": "Дом собирателя",
+          "levels": 10,
+          "is_wonder": false
+        },
+        {
+          "id": 1,
+          "name": "Бойцовская яма",
+          "levels": 9,
+          "is_wonder": false
+        },
+        {
+          "id": 88,
+          "name": "Петроглиф",
+          "levels": 12,
+          "is_wonder": false
+        },
+        {
+          "id": 83,
+          "name": "Капище",
+          "levels": 15,
+          "is_wonder": true
+        },
+        {
+          "id": 0,
+          "name": "Алтарь",
+          "levels": 12,
+          "is_wonder": false
+        },
+        {
+          "id": 97,
+          "name": "Оракул",
+          "levels": 15,
+          "is_wonder": true
+        },
+        {
+          "id": 11,
+          "name": "Жертвенник",
+          "levels": 5,
+          "is_wonder": true
+        },
+        {
+          "id": 56,
+          "name": "Геоглиф",
+          "levels": 20,
+          "is_wonder": true
+        },
+        {
+          "id": 3,
+          "name": "Ров",
+          "levels": 3,
+          "is_wonder": false
+        },
+        {
+          "id": 76,
+          "name": "Земляная плотина",
+          "levels": 5,
+          "is_wonder": true
+        },
+        {
+          "id": 4,
+          "name": "Колодец",
+          "levels": 4,
+          "is_wonder": false
+        },
+        {
+          "id": 7,
+          "name": "Казарма",
+          "levels": 2,
+          "is_wonder": false
+        },
+        {
+          "id": 87,
+          "name": "Площадь",
+          "levels": 6,
+          "is_wonder": false
+        },
+        {
+          "id": 84,
+          "name": "Ловушка для рыбы",
+          "levels": 4,
+          "is_wonder": false
+        },
+        {
+          "id": 10,
+          "name": "Конюшня",
+          "levels": 2,
+          "is_wonder": false
+        },
+        {
+          "id": 23,
+          "name": "Скотный двор",
+          "levels": 2,
+          "is_wonder": false
+        },
+        {
+          "id": 45,
+          "name": "Хранилище такаюка",
+          "levels": 3,
+          "is_wonder": false
+        },
+        {
+          "id": 68,
+          "name": "Статуя",
+          "levels": 1,
+          "is_wonder": false
+        },
+        {
+          "id": 5,
+          "name": "Лесоповал",
+          "levels": 2,
+          "is_wonder": false
+        },
+        {
+          "id": 19,
+          "name": "Частокол",
+          "levels": 1,
+          "is_wonder": false
+        },
+        {
+          "id": 25,
+          "name": "Резиденция",
+          "levels": 4,
+          "is_wonder": false
+        },
+        {
+          "id": 8,
+          "name": "Обелиск",
+          "levels": 4,
+          "is_wonder": false
+        },
+        {
+          "id": 13,
+          "name": "Посольство",
+          "levels": 3,
+          "is_wonder": false
+        },
+        {
+          "id": 111,
+          "name": "Мохоро вождей",
+          "levels": 3,
+          "is_wonder": false
+        },
+        {
+          "id": 60,
+          "name": "Великая библиотека",
+          "levels": 15,
+          "is_wonder": true
+        },
+        {
+          "id": 17,
+          "name": "Склад",
+          "levels": 1,
+          "is_wonder": false
+        },
+        {
+          "id": 35,
+          "name": "Библиотека",
+          "levels": 6,
+          "is_wonder": false
+        },
+        {
+          "id": 67,
+          "name": "Театр",
+          "levels": 3,
+          "is_wonder": false
+        },
+        {
+          "id": 33,
+          "name": "Философская школа",
+          "levels": 4,
+          "is_wonder": false
+        },
+        {
+          "id": 112,
+          "name": "Сфинкс",
+          "levels": 5,
+          "is_wonder": true
+        },
+        {
+          "id": 14,
+          "name": "Суд",
+          "levels": 3,
+          "is_wonder": false
+        },
+        {
+          "id": 79,
+          "name": "Храм",
+          "levels": 4,
+          "is_wonder": false
+        },
+        {
+          "id": 94,
+          "name": "Стоунхендж",
+          "levels": 10,
+          "is_wonder": true
+        },
+        {
+          "id": 58,
+          "name": "Колизей",
+          "levels": 5,
+          "is_wonder": true
+        },
+        {
+          "id": 98,
+          "name": "Орден Тамплиеров",
+          "levels": 5,
+          "is_wonder": true
+        }
+      ],
+      "units": [
+        {
+          "id": 0,
+          "name": "Воин"
+        },
+        {
+          "id": 1,
+          "name": "Пращник"
+        },
+        {
+          "id": 8,
+          "name": "Метатель дротиков"
+        }
+      ],
+      "bonuses": [
+        {
+          "id": 7,
+          "label": "Радиус обзора",
+          "val": 2
+        },
+        {
+          "id": 1,
+          "label": "Культура",
+          "val": 18
+        },
+        {
+          "id": 8,
+          "label": "Вместимость хранилища",
+          "val": 7
+        },
+        {
+          "id": 0,
+          "label": "Прирост населения",
+          "val": 4
+        },
+        {
+          "id": 5,
+          "label": "Производство",
+          "val": 2
+        },
+        {
+          "id": 9,
+          "label": "Торговцы",
+          "val": 2
+        },
+        {
+          "id": 3,
+          "label": "Научное распределение",
+          "val": 6
+        }
+      ],
+      "specialists": [
+        {
+          "id": 5,
+          "name": "Великий Врач",
+          "val": 123
+        },
+        {
+          "id": 1,
+          "name": "Великий Полководец",
+          "val": 30
+        },
+        {
+          "id": 2,
+          "name": "Великий Инженер",
+          "val": 36
+        },
+        {
+          "id": 0,
+          "name": "Великий Ученый",
+          "val": 24
+        }
+      ],
+      "envs": [],
+      "deposits": [
+        {
+          "id": 17,
+          "name": "Свиньи"
+        },
+        {
+          "id": 20,
+          "name": "Овцы"
+        },
+        {
+          "id": 21,
+          "name": "Овцы"
+        },
+        {
+          "id": 22,
+          "name": "Хлопок"
+        },
+        {
+          "id": 52,
+          "name": "Источник мудрости"
+        }
+      ]
+    }
+  },
+  "plan": {
+    "order": [],
+    "sciences": [],
+    "totalCost": 0,
+    "agg": {
+      "builds": [],
+      "units": [],
+      "bonuses": [],
+      "specialists": [],
+      "envs": [],
+      "deposits": []
+    }
+  }
+}
