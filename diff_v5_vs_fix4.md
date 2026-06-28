@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Дифф дерева наук: v5 (итерация 5) → fix_sci_builds4
+title: "Дифф дерева наук: v5 (итерация 5) → fix_sci_builds4"
 ---
 
 **Источники:**
