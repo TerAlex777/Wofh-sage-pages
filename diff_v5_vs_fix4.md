@@ -1,4 +1,7 @@
-# Дифф дерева наук: v5 (итерация 5) → fix_sci_builds4
+---
+layout: default
+title: Дифф дерева наук: v5 (итерация 5) → fix_sci_builds4
+---
 
 **Источники:**
 - `1_5_0_v5.json` — «1.5.0.5 · итерация 5», 688 наук, validated: false
